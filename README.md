@@ -1,2 +1,2 @@
-# sorting_algorithms
-Sorting Algorithms in C
+# Algorithms and Big O Noatation
+
